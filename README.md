@@ -3,7 +3,7 @@ FloodgateConflictLoginServer
 
 Plugin Using Support (1.19-R0.1-SNAPSHOT): BungeeCord, Waterfall, InfinityCord.
 
-[Donwload / 1.18-1.19 Version Java 17]([https://github.com/HappyRogelio7/SEPARE-WORLD-ITEMS/blob/master/SepareWorldItems-Downloads/Updates/SepareWorldItems-1.2.15.jar](https://github.com/HappyRogelio7/FloodgateConflictLoginServer1/blob/master/FloodgateConflictLoginServer-1.0.0.jar))
+[Donwload / 1.18-1.19 Version Java 17](https://github.com/HappyRogelio7/FloodgateConflictLoginServer1/blob/master/FloodgateConflictLoginServer-1.0.0.jar)
 
 [My website](https://happyrogelio7.xyz), My website 
 
