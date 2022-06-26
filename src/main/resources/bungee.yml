@@ -1,0 +1,8 @@
+name: FloodgateConflictLoginServer
+version: '${project.version}'
+main: com.github.happyrogelio7.floodgateconflictloginserver.FloodgateConflictLoginServer
+description: FloodgateConflictLoginServer
+authors:
+  - HappyRogelio7
+depends:
+  - floodgate
