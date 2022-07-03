@@ -9,9 +9,9 @@ Plugin Using Support (1.19-R0.1-SNAPSHOT): BungeeCord, Waterfall, InfinityCord.
 
 [Discord](https://discord.gg/3EebYUyeUX), Support My Server Discord
 
-[Kaory Studios](https://kaorystudios.xyz), Support Kaoty Studios
+[Kaory Studios](https://kaorystudios.xyz), Support Kaory Studios
 
-[Kaory Studios Discord](https://discord.gg/Gw7m8kC), Support Kaoty Studios
+[Kaory Studios Discord](https://discord.gg/Gw7m8kC), Support Kaory Studios
 
 © copyright HappyRogelio7 2017-2022 ©
 RIGHTS RESERVED
